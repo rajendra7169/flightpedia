@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164682057335",
+    "project_id": "flightpedia-74e35",
+    "storage_bucket": "flightpedia-74e35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164682057335:android:0fdbee485486a55063e872",
+        "android_client_info": {
+          "package_name": "com.example.flightpedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOFDeFdbXXdekmEomukvnpcidxFCuJtjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
